@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mago_elm@hotmail.com**
 
-- ⚡ Fun fact **working as a Tutor 👨‍💻**
+- ⚡ Fun fact **undefeated lightheavyweight Champion of the world 🤼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
