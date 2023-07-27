@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mago_elm@hotmail.com**
 
-- ⚡ Fun fact **coded my first Hello World with 11 years**
+- ⚡ Fun fact **I wrote my first "Hello World" code with 11 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
