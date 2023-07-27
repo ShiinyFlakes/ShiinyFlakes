@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **agile Projects 💯**
 
-- 🌱 I’m currently learning **MERN-Stack 💻**
+- 🌱 I’m currently learning **application development 💻**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
