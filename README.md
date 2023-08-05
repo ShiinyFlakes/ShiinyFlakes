@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiinyflakes&label=Profile%20views&color=0e75b6&style=flat" alt="shiinyflakes" /> </p>
 
-- 🔭 I’m currently working on **agile Projects 💯**
+- 🔭 I’m currently working on **MERN Projects 💯**
 
 - 🌱 I’m currently learning **application development 💻**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 💬 Ask me about **Frontend Design 🤖**
-
-- 📫 How to reach me **mago_elm@hotmail.com**
 
 - ⚡ Fun fact **I console logged my first "Hello World" with 11 years**
 
