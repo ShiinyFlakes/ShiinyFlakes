@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Magomed Elmurzaev</h1>
-<h3 align="center">A passionate Full-Stack Developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Mago Elm</h1>
+<h3 align="center">A passionate Web-Developer from Germany</h3>
 <img align="right" float="right" alt="Coding" width="200" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiinyflakes&label=Profile%20views&color=0e75b6&style=flat" alt="shiinyflakes" /> </p>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mago_elm@hotmail.com**
 
-- ⚡ Fun fact **I wrote my first "Hello World" code with 11 years**
+- ⚡ Fun fact **I console logged my first "Hello World" with 11 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
