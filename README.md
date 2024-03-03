@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Frontend Design 🤖**
 
-- ⚡ Fun fact **I console logged my first "Hello World" with 11 years**
+- ⚡ Fun fact ****There's a 50% chance that two people will share a birthday in a group of 23 people****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
