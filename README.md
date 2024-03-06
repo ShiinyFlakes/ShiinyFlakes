@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiinyflakes&label=Profile%20views&color=0e75b6&style=flat" alt="shiinyflakes" /> </p>
 
-- 🔭 I’m currently working on **Java and SQL 💯**
+- 🔭 I’m currently working on **application development 💻**
 
-- 🌱 I’m currently learning **application development 💻**
+- 🌱 I’m currently learning **Java and SQL 💯**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
